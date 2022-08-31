@@ -1,4 +1,5 @@
-### Hi there 👋
+# 💥 Hi there, this is HopE
+## I'm a reaaaaally lazy designer who is easily get bored for repeative mission, so I decide to learn coding ahahah!
 
 <!--
 **HopeLightning/HopeLightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
