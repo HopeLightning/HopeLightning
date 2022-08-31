@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=HopeLightning&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=HopeLightning&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopeLightning&layout=compact)](https://github.com/HopeLightning/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopeLightning&layout=compact&count_private=true)
